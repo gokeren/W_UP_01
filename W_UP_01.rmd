@@ -67,7 +67,7 @@ On average, the line players can do about 17 push ups in two minutes. But for th
 t.test(pushups~position,data=mydata)
 ```
 
-According to our two sample t-test data, if the null hypothesis was true, the probability of there being no difference between the average number of pushups of line vs skill players is 0.00000942. This is such a small number that we cannot justify the null hypothesis and must reject it; we reject $H_0$.
+We can see that the probability of getting the answer we found if we assume the null hypothesis is true, is 0.00000942. This is such a small number that we cannot justify the null hypothesis and must reject it; we reject $H_0$.
 
 # Discussion and Conclusion
 
